@@ -1,0 +1,4 @@
+//Vuex.Store 构造器选项
+// 国内地址：https://game.vlogger.org.cn
+// 国外地址：https://stardtx.github.io/WisdomPlaysFunnyGames/
+// 国外CDN https://wisdomplaysfunnygames.pages.dev/
