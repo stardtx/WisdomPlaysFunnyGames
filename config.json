@@ -1,8 +1,4 @@
-/*
- * 应用配置文件
- */
-
-export default {
+{
     "ifShowMaskLayer": false,
     "indexBG": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/bg.jpg",
     "logo": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/logo-black.png",
