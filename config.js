@@ -1,0 +1,120 @@
+/*
+ * 应用配置文件
+ */
+
+export default {
+    "ifShowMaskLayer": false,
+    "indexBG": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/bg.jpg",
+    "logo": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/logo-black.png",
+    "gameIcon": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/qyjx@2x.png",
+    "statement": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/statement@2x.png",
+    "swiperInterval": 5000,
+    "selectItem": {},
+    "gameList": [{
+            "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/planeWar.jpg",
+            "name": "飞机大战",
+            "ifVerticalScreen": true,
+            "Introduction": "是一款典型的飞行射击类游戏",
+            "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/planeWar/",
+            "path": ""
+        },
+        {
+            "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/mxt.jpg",
+            "name": "守护者跳圈圈",
+            "ifVerticalScreen": true,
+            "adsDisplay": false,
+            "Introduction": "是一款独角兽跳火圈的休闲游戏。",
+            "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/mxt/",
+            "path": ""
+        },
+        {
+            "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/hjkg.jpg",
+            "name": "黄金矿工",
+            "ifVerticalScreen": true,
+            "adsDisplay": false,
+            "Introduction": "是一款益智类小游戏。该游戏中，可以通过“挖矿”获得积分并不断升级。",
+            "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/hjkg/",
+            "path": ""
+        },
+        {
+            "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/ggzq.jpg",
+            "name": "滚滚足球",
+            "ifVerticalScreen": true,
+            "adsDisplay": false,
+            "Introduction": "是一款休闲类拼手速的竞技游戏",
+            "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/ggzq/",
+            "path": ""
+        },
+        {
+            "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/qiexigua.jpg",
+            "name": "忍者切水果",
+            "ifVerticalScreen": true,
+            "adsDisplay": true,
+            "Introduction": "是一款典型的切水果解压类休闲游戏",
+            "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/qiexigua/",
+            "path": ""
+        },
+        {
+            "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/baozi.png",
+            "name": "包子武道赛",
+            "ifVerticalScreen": true,
+            "Introduction": "是一款休闲类拼手速的竞技游戏",
+            "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/baozi/",
+            "path": ""
+        },
+        {
+            "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/dtsl.jpg",
+            "name": "动态视力",
+            "ifVerticalScreen": true,
+            "adsDisplay": true,
+            "Introduction": "是一款拼眼力的休闲游戏。",
+            "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/dtsl/",
+            "path": ""
+        },
+        {
+            "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/cupid.jpg",
+            "name": "糖果丘比特",
+            "ifVerticalScreen": true,
+            "adsDisplay": false,
+            "Introduction": "是一款丘比特元素研发的一款三消类休闲游戏。",
+            "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/cupid/",
+            "path": ""
+        },
+        {
+            "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/bsqpz2.jpg",
+            "name": "强迫症挑战",
+            "ifVerticalScreen": true,
+            "adsDisplay": true,
+            "Introduction": "是一款用模拟手机消息提示的方式对强迫症发起挑战",
+            "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/bsqpz2/",
+            "path": ""
+        },
+        {
+            "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/jyfy.jpg",
+            "name": "监狱风云",
+            "ifVerticalScreen": true,
+            "adsDisplay": true,
+            "Introduction": "是一款点击类休闲游戏。",
+            "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/jjfy/",
+            "path": ""
+        },
+        {
+            "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/fdgg.jpg",
+            "name": "飞的更高",
+            "ifVerticalScreen": true,
+            "adsDisplay": true,
+            "Introduction": "是一款典型的跳跃类休闲游戏",
+            "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/fdgg/",
+            "path": ""
+        },
+        {
+            "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/dlss.jpg",
+            "name": "大力射手",
+            "ifVerticalScreen": true,
+            "adsDisplay": false,
+            "Introduction": "是一款休闲类射球游戏",
+            "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/dlss/",
+            "path": ""
+        }
+    ]
+}
