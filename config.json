@@ -8,18 +8,18 @@
     "selectItem": {},
     "gameList": [{
             "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/planeWar.jpg",
-            "name": "飞机大战",
+            "name": "planeWar",
             "ifVerticalScreen": true,
-            "Introduction": "是一款典型的飞行射击类游戏",
+            "Introduction": "flight shooting games",
             "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/planeWar/",
             "path": ""
         },
         {
             "imgUrl": "https://wisdomplaysfunnygames.pages.dev/hwqy/image/index/mxt.jpg",
-            "name": "守护者跳圈圈",
+            "name": "jumps in circles",
             "ifVerticalScreen": true,
             "adsDisplay": false,
-            "Introduction": "是一款独角兽跳火圈的休闲游戏。",
+            "Introduction": "jumps ring of fire",
             "URL": "https://wisdomplaysfunnygames.pages.dev/hwqy/games/mxt/",
             "path": ""
         },
